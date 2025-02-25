@@ -14,7 +14,7 @@ This merge puzzle is a **tile-matching** game where players slide and merge numb
 ---
 ## 📥 Installation
 
-1. **Download** the latest release from the [Releases Section]((https://github.com/mrrazvanbogdan/Add-Up/releases/tag/V1.0)).
+1. **Download** the latest release from the [Releases Section](https://github.com/mrrazvanbogdan/Add-Up/releases/tag/V1.0).
 2. **Extract** the ZIP file.
 3. **Run** `ADD UP.exe` (for Windows)
 4. **Enjoy the challenge!**
